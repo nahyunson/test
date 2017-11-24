@@ -7,6 +7,7 @@ public class main {
 		System.out.println("hi12222!!");
 		System.out.println("AAAAA");
 		System.out.println("BBBBBB");
+		System.out.println("CCCCCC");
 	}
 
 }
